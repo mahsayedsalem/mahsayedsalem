@@ -1,8 +1,7 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am SALEM!
 
 ---
-
-A Software Engineer specializing in FinTech applications. Professional experience with the technologies listed in the **toolbox** below.
+A backend software engineer 🚀 who delivered high-quality software and automation services to customers from France, Germany, India and Egypt. I'm experienced in implementing high performance, scalable and well designed systems in Ruby, Go, Python, Java and JavaScript. Currently 📍 in London. Professional experience with the technologies listed in the **toolbox** below.
 
 I try to build cool stuff and blog about them in my free time!
 ---
