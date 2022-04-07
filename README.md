@@ -22,6 +22,8 @@ I try to build cool stuff and blog about them in my free time!
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [The theory behind Memory Management - Concepts](https://blog.mahmoud-salem.net/the-theory-behind-memory-management-part-1)
+- [The theory behind Memory Management - Java](https://blog.mahmoud-salem.net/the-theory-behind-memory-management-java)
 - [Beyond Rest: gRPC in Microservices Part I](https://blog.mahmoud-salem.net/beyond-rest-grpc-in-microservices-part-i)
 - [Beyond Rest: gRPC in Microservices Part II](https://blog.mahmoud-salem.net/beyond-rest-grpc-in-microservices-part-ii)
 <!-- BLOG-POST-LIST:END -->
